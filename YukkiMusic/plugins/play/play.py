@@ -46,7 +46,7 @@ force_btn = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton(
-              text="• تحديثات السورس •", url="https://t.me/SOURCE_SPEED_MUSIC",),                        
+              text="• تحديثات السورس •", url="قناة البوت",),                        
         ],        
     ]
 )
